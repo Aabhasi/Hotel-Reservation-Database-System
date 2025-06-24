@@ -11,7 +11,7 @@ This project presents a structured **Hotel Reservation System Database** built u
 ## 🛠️ Tools & Technologies
 - **SQL (Oracle & SQL Server compatible)**
 - **ER Diagram Design**
-- **Oracle APEX** for UI access
+- **Oracle APEX** 
 - Relational schema development with primary/foreign keys and constraints
 
 ## 🧩 Features & Entities
